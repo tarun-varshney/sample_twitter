@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TwitterSample</string>
+
+    <string name="issue_heading">Issue heading</string>
+    <string name="issue_desc">Issue details</string>
+    <string name="updated_at">Updated at : %s</string>
+    <integer name="text_length">140</integer>
+    <string name="comment">comment- %s</string>
+    <string name="error_fetching">Oops, Error fetching comments</string>
+    <string name="no_comment">No comments found</string>
+
+</resources>
